@@ -1,0 +1,5 @@
+DB_HOST=35.198.77.135
+DB_DATABASE=Nutzerinfo
+DB_USER=root
+DB_PASS=webshop
+DB_INSTANCE_NAME=webshop

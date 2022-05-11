@@ -1,0 +1,12 @@
+{
+  "db": {
+    "password": "webshop",
+    "user": "root",
+    "database": "Nutzerinfo"
+  },
+  "firebase": {
+    "projectId": "webshop-316612",
+    "storageBucket": "webshop-316612.appspot.com",
+    "locationId": "europe-west"
+  }
+}
